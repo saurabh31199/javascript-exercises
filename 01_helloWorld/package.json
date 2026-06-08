@@ -1,0 +1,20 @@
+{
+  "name": "01_helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "scripts": {
+    "_comment": "jest tests javascript code automatically (made by meta)",
+    "_comment2": "first install jest once per project by -> npm install --save-dev jest",
+    "_comment3": "run test by -> npm test / npx jest",
+    "test": "jest",
+    "start": "node helloWorld.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

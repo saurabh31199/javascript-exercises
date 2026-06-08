@@ -1,0 +1,17 @@
+{
+  "name": "02_addnumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addNumbers.js",
+  "scripts": {
+    "test": "echo \"Test successful!\" && exit 1",
+    "run": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
